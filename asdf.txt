@@ -1,6 +1,0 @@
-testetst
-
-asdf
-
-myTestFile
-BlahBlah
